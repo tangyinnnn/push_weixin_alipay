@@ -431,6 +431,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 77J2J22A6X;
 				INFOPLIST_FILE = "跳到微信/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "test.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -443,6 +444,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 77J2J22A6X;
 				INFOPLIST_FILE = "跳到微信/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "test.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -518,6 +520,7 @@
 				637732C21EB9D6600071B25E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		637732C31EB9D6600071B25E /* Build configuration list for PBXNativeTarget "跳到微信Tests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +529,7 @@
 				637732C51EB9D6600071B25E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		637732C61EB9D6600071B25E /* Build configuration list for PBXNativeTarget "跳到微信UITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +538,7 @@
 				637732C81EB9D6600071B25E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
